@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "ApiPratica.Controllers.Admin.AdminController",
+    "Method": "CreateAsync",
+    "RelativePath": "api/admin/Admin/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentCreateDto",
+        "Type": "ApiPratica.Helpers.Dto_s.Student.StudentCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiPratica.Controllers.Admin.AdminController",
+    "Method": "DeletedAsync",
+    "RelativePath": "api/admin/Admin/Deleted",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiPratica.Controllers.Admin.AdminController",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/admin/Admin/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiPratica.Controllers.Admin.AdminController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "api/admin/Admin/GetById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
