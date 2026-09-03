@@ -1,64 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\",
+  "WorkspaceRootPath": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61FE8141-491F-4091-BEFB-4D3B09BC0D15}|ApiPratica\\ApiPratica.csproj|c:\\users\\abdullafm\\source\\repos\\apipratica\\apipratica\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61FE8141-491F-4091-BEFB-4D3B09BC0D15}|ApiPratica\\ApiPratica.csproj|solutionrelative:apipratica\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{658CB1B6-5D83-9D48-3380-65CB395C63A8}|ApiPratica\\ApiPratica.csproj|c:\\users\\abdullafm\\desktop\\apitaskclasspratika\\apipratica\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658CB1B6-5D83-9D48-3380-65CB395C63A8}|ApiPratica\\ApiPratica.csproj|solutionrelative:apipratica\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658CB1B6-5D83-9D48-3380-65CB395C63A8}|ApiPratica\\ApiPratica.csproj|c:\\users\\abdullafm\\desktop\\apitaskclasspratika\\apipratica\\helpers\\dto\u0027s\\student\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658CB1B6-5D83-9D48-3380-65CB395C63A8}|ApiPratica\\ApiPratica.csproj|solutionrelative:apipratica\\helpers\\dto\u0027s\\student\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658CB1B6-5D83-9D48-3380-65CB395C63A8}|ApiPratica\\ApiPratica.csproj|c:\\users\\abdullafm\\desktop\\apitaskclasspratika\\apipratica\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658CB1B6-5D83-9D48-3380-65CB395C63A8}|ApiPratica\\ApiPratica.csproj|solutionrelative:apipratica\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658CB1B6-5D83-9D48-3380-65CB395C63A8}|ApiPratica\\ApiPratica.csproj|c:\\users\\abdullafm\\desktop\\apitaskclasspratika\\apipratica\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658CB1B6-5D83-9D48-3380-65CB395C63A8}|ApiPratica\\ApiPratica.csproj|solutionrelative:apipratica\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658CB1B6-5D83-9D48-3380-65CB395C63A8}|ApiPratica\\ApiPratica.csproj|c:\\users\\abdullafm\\desktop\\apitaskclasspratika\\apipratica\\helpers\\dto\u0027s\\student\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658CB1B6-5D83-9D48-3380-65CB395C63A8}|ApiPratica\\ApiPratica.csproj|solutionrelative:apipratica\\helpers\\dto\u0027s\\student\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658CB1B6-5D83-9D48-3380-65CB395C63A8}|ApiPratica\\ApiPratica.csproj|c:\\users\\abdullafm\\desktop\\apitaskclasspratika\\apipratica\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658CB1B6-5D83-9D48-3380-65CB395C63A8}|ApiPratica\\ApiPratica.csproj|solutionrelative:apipratica\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658CB1B6-5D83-9D48-3380-65CB395C63A8}|ApiPratica\\ApiPratica.csproj|c:\\users\\abdullafm\\desktop\\apitaskclasspratika\\apipratica\\models\\studentgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658CB1B6-5D83-9D48-3380-65CB395C63A8}|ApiPratica\\ApiPratica.csproj|solutionrelative:apipratica\\models\\studentgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658CB1B6-5D83-9D48-3380-65CB395C63A8}|ApiPratica\\ApiPratica.csproj|c:\\users\\abdullafm\\desktop\\apitaskclasspratika\\apipratica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658CB1B6-5D83-9D48-3380-65CB395C63A8}|ApiPratica\\ApiPratica.csproj|solutionrelative:apipratica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/JUPITER04_MAIN/ApiPratikaClass/True/SqlTable/dbo.StudentGroups.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/JUPITER04_MAIN/ApiPratikaClass/True/SqlTable/dbo.Groups.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/JUPITER04_MAIN/ApiPratikaClass/True/SqlTable/dbo.Students.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\Migrations\\20260903074220_newdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiPratica\\Migrations\\20260903074220_newdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658CB1B6-5D83-9D48-3380-65CB395C63A8}|ApiPratica\\ApiPratica.csproj|c:\\users\\abdullafm\\desktop\\apitaskclasspratika\\apipratica\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{658CB1B6-5D83-9D48-3380-65CB395C63A8}|ApiPratica\\ApiPratica.csproj|solutionrelative:apipratica\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/JUPITER09_MAIN/ApiPratikaClass/True/SqlTable/dbo.Groups.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61FE8141-491F-4091-BEFB-4D3B09BC0D15}|ApiPratica\\ApiPratica.csproj|c:\\users\\abdullafm\\source\\repos\\apipratica\\apipratica\\controllers\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61FE8141-491F-4091-BEFB-4D3B09BC0D15}|ApiPratica\\ApiPratica.csproj|solutionrelative:apipratica\\controllers\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61FE8141-491F-4091-BEFB-4D3B09BC0D15}|ApiPratica\\ApiPratica.csproj|c:\\users\\abdullafm\\source\\repos\\apipratica\\apipratica\\helpers\\dto\u0027s\\student\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61FE8141-491F-4091-BEFB-4D3B09BC0D15}|ApiPratica\\ApiPratica.csproj|solutionrelative:apipratica\\helpers\\dto\u0027s\\student\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61FE8141-491F-4091-BEFB-4D3B09BC0D15}|ApiPratica\\ApiPratica.csproj|c:\\users\\abdullafm\\source\\repos\\apipratica\\apipratica\\helpers\\dto\u0027s\\student\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61FE8141-491F-4091-BEFB-4D3B09BC0D15}|ApiPratica\\ApiPratica.csproj|solutionrelative:apipratica\\helpers\\dto\u0027s\\student\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61FE8141-491F-4091-BEFB-4D3B09BC0D15}|ApiPratica\\ApiPratica.csproj|c:\\users\\abdullafm\\source\\repos\\apipratica\\apipratica\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61FE8141-491F-4091-BEFB-4D3B09BC0D15}|ApiPratica\\ApiPratica.csproj|solutionrelative:apipratica\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61FE8141-491F-4091-BEFB-4D3B09BC0D15}|ApiPratica\\ApiPratica.csproj|c:\\users\\abdullafm\\source\\repos\\apipratica\\apipratica\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61FE8141-491F-4091-BEFB-4D3B09BC0D15}|ApiPratica\\ApiPratica.csproj|solutionrelative:apipratica\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61FE8141-491F-4091-BEFB-4D3B09BC0D15}|ApiPratica\\ApiPratica.csproj|c:\\users\\abdullafm\\source\\repos\\apipratica\\apipratica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61FE8141-491F-4091-BEFB-4D3B09BC0D15}|ApiPratica\\ApiPratica.csproj|solutionrelative:apipratica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61FE8141-491F-4091-BEFB-4D3B09BC0D15}|ApiPratica\\ApiPratica.csproj|c:\\users\\abdullafm\\source\\repos\\apipratica\\apipratica\\models\\studentgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61FE8141-491F-4091-BEFB-4D3B09BC0D15}|ApiPratica\\ApiPratica.csproj|solutionrelative:apipratica\\models\\studentgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61FE8141-491F-4091-BEFB-4D3B09BC0D15}|ApiPratica\\ApiPratica.csproj|c:\\users\\abdullafm\\source\\repos\\apipratica\\apipratica\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61FE8141-491F-4091-BEFB-4D3B09BC0D15}|ApiPratica\\ApiPratica.csproj|solutionrelative:apipratica\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/JUPITER09_MAIN/ApiPratikaClass/True/SqlTable/dbo.Students.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\Migrations\\20260902053804_newCreateDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiPratica\\Migrations\\20260902053804_newCreateDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{658CB1B6-5D83-9D48-3380-65CB395C63A8}|ApiPratica\\ApiPratica.csproj|c:\\users\\abdullafm\\desktop\\apitaskclasspratika\\apipratica\\controllers\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658CB1B6-5D83-9D48-3380-65CB395C63A8}|ApiPratica\\ApiPratica.csproj|solutionrelative:apipratica\\controllers\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61FE8141-491F-4091-BEFB-4D3B09BC0D15}|ApiPratica\\ApiPratica.csproj|c:\\users\\abdullafm\\source\\repos\\apipratica\\apipratica\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61FE8141-491F-4091-BEFB-4D3B09BC0D15}|ApiPratica\\ApiPratica.csproj|solutionrelative:apipratica\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{658CB1B6-5D83-9D48-3380-65CB395C63A8}|ApiPratica\\ApiPratica.csproj|c:\\users\\abdullafm\\desktop\\apitaskclasspratika\\apipratica\\migrations\\20260902053804_newcreatedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658CB1B6-5D83-9D48-3380-65CB395C63A8}|ApiPratica\\ApiPratica.csproj|solutionrelative:apipratica\\migrations\\20260902053804_newcreatedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61FE8141-491F-4091-BEFB-4D3B09BC0D15}|ApiPratica\\ApiPratica.csproj|c:\\users\\abdullafm\\source\\repos\\apipratica\\apipratica\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{61FE8141-491F-4091-BEFB-4D3B09BC0D15}|ApiPratica\\ApiPratica.csproj|solutionrelative:apipratica\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{658CB1B6-5D83-9D48-3380-65CB395C63A8}|ApiPratica\\ApiPratica.csproj|c:\\users\\abdullafm\\desktop\\apitaskclasspratika\\apipratica\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658CB1B6-5D83-9D48-3380-65CB395C63A8}|ApiPratica\\ApiPratica.csproj|solutionrelative:apipratica\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61FE8141-491F-4091-BEFB-4D3B09BC0D15}|ApiPratica\\ApiPratica.csproj|c:\\users\\abdullafm\\source\\repos\\apipratica\\apipratica\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61FE8141-491F-4091-BEFB-4D3B09BC0D15}|ApiPratica\\ApiPratica.csproj|solutionrelative:apipratica\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{658CB1B6-5D83-9D48-3380-65CB395C63A8}|ApiPratica\\ApiPratica.csproj|c:\\users\\abdullafm\\desktop\\apitaskclasspratika\\apipratica\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658CB1B6-5D83-9D48-3380-65CB395C63A8}|ApiPratica\\ApiPratica.csproj|solutionrelative:apipratica\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -72,47 +85,50 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "dbo.Groups [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/JUPITER09_MAIN/ApiPratikaClass/True/SqlTable/dbo.Groups.sql",
-              "ToolTip": "dbo.Groups [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-09-02T08:35:32.924Z",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\Program.cs",
+              "RelativeDocumentMoniker": "ApiPratica\\Program.cs",
+              "ToolTip": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\Program.cs",
+              "RelativeToolTip": "ApiPratica\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvw4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T05:28:57.242Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\Services\\StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\Services\\StudentService.cs",
               "RelativeDocumentMoniker": "ApiPratica\\Services\\StudentService.cs",
-              "ToolTip": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\Services\\StudentService.cs",
               "RelativeToolTip": "ApiPratica\\Services\\StudentService.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAqwEcAAAChAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwDQAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-02T06:07:43.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "ApiPratica\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\Models\\Student.cs",
-              "RelativeToolTip": "ApiPratica\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "StudentCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\Helpers\\Dto\u0027s\\Student\\StudentCreateDto.cs",
+              "RelativeDocumentMoniker": "ApiPratica\\Helpers\\Dto\u0027s\\Student\\StudentCreateDto.cs",
+              "ToolTip": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\Helpers\\Dto\u0027s\\Student\\StudentCreateDto.cs",
+              "RelativeToolTip": "ApiPratica\\Helpers\\Dto\u0027s\\Student\\StudentCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T05:18:35.24Z",
+              "WhenOpened": "2026-09-02T06:05:30.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "StudentGroup.cs",
-              "DocumentMoniker": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\Models\\StudentGroup.cs",
+              "DocumentMoniker": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\Models\\StudentGroup.cs",
               "RelativeDocumentMoniker": "ApiPratica\\Models\\StudentGroup.cs",
-              "ToolTip": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\Models\\StudentGroup.cs",
+              "ToolTip": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\Models\\StudentGroup.cs",
               "RelativeToolTip": "ApiPratica\\Models\\StudentGroup.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -121,11 +137,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "ApiPratica\\Services\\Interfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "ApiPratica\\Services\\Interfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T05:41:50.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ApiPratica\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\Models\\Student.cs",
+              "RelativeToolTip": "ApiPratica\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T05:18:35.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Group.cs",
-              "DocumentMoniker": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\Models\\Group.cs",
+              "DocumentMoniker": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\Models\\Group.cs",
               "RelativeDocumentMoniker": "ApiPratica\\Models\\Group.cs",
-              "ToolTip": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\Models\\Group.cs",
               "RelativeToolTip": "ApiPratica\\Models\\Group.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -134,130 +176,138 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\Program.cs",
-              "RelativeDocumentMoniker": "ApiPratica\\Program.cs",
-              "ToolTip": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\Program.cs",
-              "RelativeToolTip": "ApiPratica\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T05:28:57.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "StudentDto.cs",
-              "DocumentMoniker": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\Helpers\\Dto\u0027s\\Student\\StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\Helpers\\Dto\u0027s\\Student\\StudentDto.cs",
               "RelativeDocumentMoniker": "ApiPratica\\Helpers\\Dto\u0027s\\Student\\StudentDto.cs",
-              "ToolTip": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\Helpers\\Dto\u0027s\\Student\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\Helpers\\Dto\u0027s\\Student\\StudentDto.cs",
               "RelativeToolTip": "ApiPratica\\Helpers\\Dto\u0027s\\Student\\StudentDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-02T05:39:15.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StudentCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\Helpers\\Dto\u0027s\\Student\\StudentCreateDto.cs",
-              "RelativeDocumentMoniker": "ApiPratica\\Helpers\\Dto\u0027s\\Student\\StudentCreateDto.cs",
-              "ToolTip": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\Helpers\\Dto\u0027s\\Student\\StudentCreateDto.cs",
-              "RelativeToolTip": "ApiPratica\\Helpers\\Dto\u0027s\\Student\\StudentCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T06:05:30.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\Controllers\\Admin\\AdminController.cs",
-              "RelativeDocumentMoniker": "ApiPratica\\Controllers\\Admin\\AdminController.cs",
-              "ToolTip": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\Controllers\\Admin\\AdminController.cs",
-              "RelativeToolTip": "ApiPratica\\Controllers\\Admin\\AdminController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T06:39:22.731Z",
+              "DocumentIndex": 8,
+              "Title": "dbo.StudentGroups [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/JUPITER04_MAIN/ApiPratikaClass/True/SqlTable/dbo.StudentGroups.sql",
+              "ToolTip": "dbo.StudentGroups [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-03T07:45:48.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "IStudentService.cs",
-              "DocumentMoniker": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\Services\\Interfaces\\IStudentService.cs",
-              "RelativeDocumentMoniker": "ApiPratica\\Services\\Interfaces\\IStudentService.cs",
-              "ToolTip": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\Services\\Interfaces\\IStudentService.cs",
-              "RelativeToolTip": "ApiPratica\\Services\\Interfaces\\IStudentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T05:41:50.191Z",
+              "Title": "dbo.Groups [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/JUPITER04_MAIN/ApiPratikaClass/True/SqlTable/dbo.Groups.sql",
+              "ToolTip": "dbo.Groups [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-03T07:44:29.639Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "dbo.Students [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/JUPITER09_MAIN/ApiPratikaClass/True/SqlTable/dbo.Students.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/JUPITER04_MAIN/ApiPratikaClass/True/SqlTable/dbo.Students.sql",
               "ToolTip": "dbo.Students [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-09-02T05:46:41.572Z",
+              "WhenOpened": "2026-09-03T07:44:39.002Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "20260902053804_newCreateDatabase.cs",
-              "DocumentMoniker": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\Migrations\\20260902053804_newCreateDatabase.cs",
-              "RelativeDocumentMoniker": "ApiPratica\\Migrations\\20260902053804_newCreateDatabase.cs",
-              "ToolTip": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\Migrations\\20260902053804_newCreateDatabase.cs",
-              "RelativeToolTip": "ApiPratica\\Migrations\\20260902053804_newCreateDatabase.cs",
+              "Title": "20260903074220_newdatabase.cs",
+              "DocumentMoniker": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\Migrations\\20260903074220_newdatabase.cs",
+              "RelativeDocumentMoniker": "ApiPratica\\Migrations\\20260903074220_newdatabase.cs",
+              "ToolTip": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\Migrations\\20260903074220_newdatabase.cs",
+              "RelativeToolTip": "ApiPratica\\Migrations\\20260903074220_newdatabase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T05:38:04.93Z",
+              "WhenOpened": "2026-09-03T07:42:20.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ApiPratica\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\appsettings.Development.json",
               "RelativeToolTip": "ApiPratica\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-09-02T05:27:27.785Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "ApiPratica\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "ApiPratica\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "dbo.Groups.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/JUPITER09_MAIN/ApiPratikaClass/True/SqlTable/dbo.Groups.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/JUPITER09_MAIN/ApiPratikaClass/True/SqlTable/dbo.Groups.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-02T08:35:32.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\Controllers\\Admin\\AdminController.cs",
+              "RelativeDocumentMoniker": "ApiPratica\\Controllers\\Admin\\AdminController.cs",
+              "ToolTip": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\Controllers\\Admin\\AdminController.cs",
+              "RelativeToolTip": "ApiPratica\\Controllers\\Admin\\AdminController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T05:22:10.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-02T06:39:22.731Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "dbo.Students.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/JUPITER09_MAIN/ApiPratikaClass/True/SqlTable/dbo.Students.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/JUPITER09_MAIN/ApiPratikaClass/True/SqlTable/dbo.Students.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-02T05:46:41.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260902053804_newCreateDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\Migrations\\20260902053804_newCreateDatabase.cs",
+              "RelativeDocumentMoniker": "ApiPratica\\Migrations\\20260902053804_newCreateDatabase.cs",
+              "ToolTip": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\Migrations\\20260902053804_newCreateDatabase.cs",
+              "RelativeToolTip": "ApiPratica\\Migrations\\20260902053804_newCreateDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T05:38:04.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ApiPratica\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ApiPratica\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T05:22:10.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\Models\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "ApiPratica\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\Models\\BaseEntity.cs",
               "RelativeToolTip": "ApiPratica\\Models\\BaseEntity.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-02T05:18:10.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-02T05:18:10.728Z"
             }
           ]
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\ApiPratica.csproj": {}
+    "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\ApiPratica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\ApiPratica.csproj": {
+    "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\ApiPratica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\ApiPratica.csproj",
+        "projectUniqueName": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\ApiPratica.csproj",
         "projectName": "ApiPratica",
-        "projectPath": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\ApiPratica.csproj",
+        "projectPath": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\ApiPratica.csproj",
         "packagesPath": "C:\\Users\\abdullafm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdullafm\\source\\repos\\ApiPratica\\ApiPratica\\obj\\",
+        "outputPath": "C:\\Users\\abdullafm\\Desktop\\ApiTaskClassPratika\\ApiPratica\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

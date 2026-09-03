@@ -7,7 +7,6 @@ namespace ApiPratica.Services.Interfaces
         Task<StudentCreateDto> CreateAsync(StudentCreateDto studentCreateDto);
         Task<IEnumerable<StudentDto>> GetAllAsync();
         Task DeletedAsync(int id);
-        Task<IEnumerable<StudentDto>> SearchByNameAsync(string name);
         Task<StudentDto> GetByIdAsync(int id);
     }
 }

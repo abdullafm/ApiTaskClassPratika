@@ -6,7 +6,6 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
 builder.Services.AddControllers();
 
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
@@ -14,11 +13,20 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(connectionString));
 
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IStudentService, StudentService>();
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowFront", policy =>
+    {
+        policy.WithOrigins("http://127.0.0.1:5500") // frontend origin-in
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
+});
 
 var app = builder.Build();
 
@@ -30,6 +38,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+// UseCors, UseAuthorization-dan ƏVVƏL olmalıdır
+app.UseCors("AllowFront");
 
 app.UseAuthorization();
 

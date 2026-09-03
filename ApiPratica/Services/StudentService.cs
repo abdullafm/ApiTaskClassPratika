@@ -49,7 +49,8 @@ namespace ApiPratica.Services
                 Address = s.Address,
                 Age = s.Age,
                 Email = s.Email,
-                GroupId = s.StudentGroups.Select(sg => sg.GroupId).FirstOrDefault()
+                GroupId = s.StudentGroups.Select(sg => sg.GroupId).FirstOrDefault(),
+                GroupName = s.StudentGroups.Select(sg => sg.Group.Name).FirstOrDefault()
             }).ToListAsync();
 
             return studentGetAll;
@@ -67,9 +68,9 @@ namespace ApiPratica.Services
             };
         }
 
-        public async Task<IEnumerable<StudentDto>> SearchByNameAsync(string name)
-        {
-            var searchByName = await _context.Students.FirstOrDefaultAsync(x => x.FullName.Trim().ToUpper().ToLower().Contains(name.Trim().ToUpper().ToLower()));
-        }
+        //public async Task<IEnumerable<StudentDto>> SearchByNameAsync(string name)
+        //{
+        //    var searchByName = await _context.Students.FirstOrDefaultAsync(x => x.FullName.Trim().ToUpper().ToLower().Contains(name.Trim().ToUpper().ToLower()));
+        //}
     }
 }
